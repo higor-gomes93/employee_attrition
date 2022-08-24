@@ -9,3 +9,9 @@ Iremos realizar uma análise completa de dados envolvendo o problema de prediç�
 
 #### **Objetivos**
 Identificar quais são as principais alavancas que estão levando as pessoas deixarem a empresa, validar algumas hipóteses e desenvolver um modelo preditivo para essas saídas.
+
+Esse projeto está detalhado no Medium por meio dos quatro artigos a seguir:
+- [Predição de Saídas - Parte 1](https://higorgomes93.medium.com/predi%C3%A7%C3%A3o-de-sa%C3%ADdas-parte-1-666df40ab72e)
+- [Predição de Saídas - Parte 2](https://higorgomes93.medium.com/predi%C3%A7%C3%A3o-de-sa%C3%ADdas-parte-2-42e1299b38af)
+- [Predição de Saídas - Parte 3](https://higorgomes93.medium.com/predi%C3%A7%C3%A3o-de-sa%C3%ADdas-parte-3-2b4bdf98258)
+- [Predição de Saídas - Parte 4](https://higorgomes93.medium.com/predi%C3%A7%C3%A3o-de-sa%C3%ADdas-parte-1-666df40ab72e)
