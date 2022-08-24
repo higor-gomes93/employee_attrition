@@ -14,4 +14,4 @@ Esse projeto está detalhado no Medium por meio dos quatro artigos a seguir:
 - [Predição de Saídas - Parte 1](https://higorgomes93.medium.com/predi%C3%A7%C3%A3o-de-sa%C3%ADdas-parte-1-666df40ab72e)
 - [Predição de Saídas - Parte 2](https://higorgomes93.medium.com/predi%C3%A7%C3%A3o-de-sa%C3%ADdas-parte-2-42e1299b38af)
 - [Predição de Saídas - Parte 3](https://higorgomes93.medium.com/predi%C3%A7%C3%A3o-de-sa%C3%ADdas-parte-3-2b4bdf98258)
-- [Predição de Saídas - Parte 4](https://higorgomes93.medium.com/predi%C3%A7%C3%A3o-de-sa%C3%ADdas-parte-1-666df40ab72e)
+- [Predição de Saídas - Parte 4](https://higorgomes93.medium.com/predi%C3%A7%C3%A3o-de-sa%C3%ADdas-parte-4-de-4-129ab25f08ee)
